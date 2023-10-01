@@ -11,7 +11,9 @@
         "laravel/framework": "^9.0",
         "laravel/sanctum": "^2.14",
         "laravel/tinker": "^2.7",
-        "mailerlite/laravel-elasticsearch": "^11.0"
+        "laravel/ui": "^4.2",
+        "mailerlite/laravel-elasticsearch": "^11.0",
+        "predis/predis": "^2.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
